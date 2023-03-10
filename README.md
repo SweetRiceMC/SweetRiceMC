@@ -5,5 +5,5 @@
 * 服务器规则[《SweetRice 玩家协议》](rules.md)
 * 服务器中使用的部分开源插件修改后的 Fork
 
-服务器地址：mc.4pr.top  
+服务器地址：pds.ink  
 服务器QQ群：[594212444](https://jq.qq.com/?_wv=1027&k=FHabPCFG)
